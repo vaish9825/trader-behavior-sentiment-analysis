@@ -1,7 +1,5 @@
 # 📊 Bitcoin Sentiment & Trader Behavior Analysis
-**Analyzing market psychology and trader performance on Hyperliquid.**
 
-## 🎯 Project Objective
 This project investigates the correlation between the **Bitcoin Fear & Greed Index** and real-time execution data from **Hyperliquid**. The goal is to identify behavioral patterns during market extremes to inform smarter trading strategies.
 
 ## 🚀 Top 3 Analytical Insights
@@ -13,6 +11,7 @@ This project investigates the correlation between the **Bitcoin Fear & Greed Ind
 * `notebooks/`: Comprehensive Jupyter Notebook with data cleaning, EDA, and visualization.
 * `results/`: Processed CSVs including `trader_performance_summary.csv` for ranking top traders.
 * `data/`: Historical sentiment and market execution logs.
+* `requirements.txt`: List of Python dependencies (Pandas, NumPy, Seaborn) required to run the analysis.
 
 ## 🛠️ Technical Stack
 * **Languages:** Python (Pandas, NumPy)
